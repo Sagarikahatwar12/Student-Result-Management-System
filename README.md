@@ -1,5 +1,4 @@
 # Student-Result-Management-System
-# Student Result System
 
 A console-based Java program that takes a student's marks and calculates the total, percentage, and Pass/Fail result.
 
@@ -10,6 +9,19 @@ A console-based Java program that takes a student's marks and calculates the tot
 
 ## Technology
 Java
+
+## Sample Output
+    Student Result System
+    Enter Student Name: Sagarika
+    Roll Number: 1
+    Java Marks: 70
+    DBMS Marks: 65
+    Maths Marks: 60
+    Name = Sagarika
+    Roll Number = 1
+    Total marks = 195
+    Percentage = 65.0%
+    Result = PASS
 
 ## How to Run
     javac StudentResult.java
